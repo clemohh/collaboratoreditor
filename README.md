@@ -65,4 +65,4 @@ Open [http://localhost:3000](http://localhost:3000) in your web browser to view 
 - `components/Notifications.ts`
 ```
 
-You can save this content to a file named `README.md` in your project directory.
+
